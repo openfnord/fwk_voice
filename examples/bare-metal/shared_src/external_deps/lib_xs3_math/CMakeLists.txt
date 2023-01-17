@@ -75,4 +75,4 @@ target_compile_options(fwk_voice_deps_lib_xs3_math
 #)
 
 ## Create an alias
-add_library(core::xs3_math ALIAS fwk_voice_deps_lib_xs3_math)
+add_library(lib_xcore_math ALIAS fwk_voice_deps_lib_xs3_math)
